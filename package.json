@@ -1,0 +1,16 @@
+{
+  "name": "vertx-node-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.13.4",
+    "vertx3-full": "3.2.0",
+    "node-uuid": "1.4.3"
+  }
+}
